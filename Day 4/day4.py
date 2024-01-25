@@ -11,8 +11,6 @@ print(father + 20)
 print(mother + 20)
 print(brother + 20)
 
-################################################################################################################################################
-
 name = input("sheiyvane sheni saxeli: ")
 surname = input("sheiyvane sheni gvari: ")
 age = input("sheiyvanee sheni asaki: ")
