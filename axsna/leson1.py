@@ -2,31 +2,26 @@ from turtle import *
 
 #we want paint to house
 
-# #step 1: drave a square
-speed(8)
-width(6)
-color("red")
+#step 1: drave a square
+speed(4)
+width(10)
+color("green")
 forward(200)
 left(90)
-
-
-
 forward(200)
 left(90)
-
 forward(200)
 left(90)
-
 forward(200)
 left(90)
 #end of square
 #draving a door
 
 forward(70)
-color("yellow")
+color("orange")
 begin_fill()
 left(90)
-forward(120)    # height of the door
+forward(120)# height of the door
 right(90)
 forward(65)
 right(90)
@@ -48,7 +43,7 @@ end_fill()
 
 left(30)
 forward(70)
-color("black")
+color("blue")
 begin_fill()
 left(90)
 forward(50)
@@ -73,9 +68,9 @@ left(90)
 forward(50)
 end_fill()
 
-left(90)
-forward(50)
-left(90)
+# left(90)
+# forward(50)
+# left(90)
 
 
 
