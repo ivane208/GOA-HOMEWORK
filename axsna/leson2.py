@@ -1,3 +1,3 @@
-price = 1000
+price = andri
 
 print(price)
