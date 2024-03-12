@@ -1,5 +1,5 @@
 h1{
-    color: black;
+    color: rgb(13, 46, 5);
 }
 body { 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,7 +9,7 @@ body {
     color: #3f5cc3;
 }
 p{
-    color: black;
+    color: rgb(1, 56, 21);
     font-size: 14px;
     letter-spacing: 2px;
     font-weight: 200px;
