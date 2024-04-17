@@ -1,0 +1,15 @@
+
+p{
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    background-image: url(/images.jpg);
+    background-color: aqua;
+}
+div{
+    color: rgb(255, 0, 0);
+   left: 50px;
+   
+}

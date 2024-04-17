@@ -1,3 +1,0 @@
-price = andri
-
-print(price)
